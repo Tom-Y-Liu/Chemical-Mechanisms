@@ -9,7 +9,7 @@ ideal_gas(name = "f_OTD_new",
      species = """ O O2 H OH H2 HO2 H2O2 CH2 HCO CH2(S) CO CH3 CH2O CH4
                    CO2 CH2OH CH3O C2H4 C2H5 C2H6 H2O N2 """,
      reactions = "all",
-     initial_state = state(temperature = 300, pressure = OneAtm)   )
+     initial_state = state(temperature = 300.0, pressure = OneAtm)   )
 
 #---------------------------------------------------------------------------
 #  Species data
