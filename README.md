@@ -1,1 +1,1 @@
-# Skeletal Chemical Mechanisms Derived by the f-OTD method
+# Skeletal Chemical Mechanisms Derived by f-OTD method
