@@ -3,7 +3,7 @@ Theses reduced models for methane-air combustion are derived using f-OTD method.
 -----------
 
 ## Using Notice
--- All of the models here contain only irreversible reactions.
+* All of the models here contain only irreversible reactions.
 
 ## Citing
 If you use these reduced mechanisms for your simulations, please cite the following works.
