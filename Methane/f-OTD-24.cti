@@ -10,7 +10,7 @@ ideal_gas(name = "f-OTD-C24-247",
                    H2CC C2H3 C2H4 CH4 CH3O C2H6 C2H5
                    HCCO N2 """, 
      reactions = "all", 
-     initial_state = state(temperature = 0.001, pressure = 0.00824847481959647)   )
+     initial_state = state(temperature = 300.0, pressure = OneAtm))
 
 #---------------------------------------------------------------------------
 #  Species data
