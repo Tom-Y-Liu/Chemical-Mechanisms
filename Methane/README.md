@@ -13,7 +13,8 @@ If you use these reduced mechanisms for your simulations, please cite the follow
 
 ```
 @article{,
-  title={},
+  title={Skeletal Reaction Models for Methane Combustion at Atmospheric and
+High Pressures},
   author={},
   journal={},
   volume={},
