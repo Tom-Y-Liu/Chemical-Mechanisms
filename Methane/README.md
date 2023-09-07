@@ -13,12 +13,12 @@ If you use these reduced mechanisms for your simulations, please cite the follow
 
 ```
 @article{liu2024skeletal,
-  title={Skeletal reaction models for methane combustion},
-  author={Liu, Yinmin and Babaee, Hessam and Givi, Peyman and Chelliah, Harsha K and Livescu, Daniel and Nouri, Arash G},
-  journal={Fuel},
-  volume={357},
-  pages={129581},
-  year={2024},
-  publisher={Elsevier}
+ title={Skeletal reaction models for methane combustion},
+ author={Liu, Yinmin and Babaee, Hessam and Givi, Peyman and Chelliah, Harsha K and Livescu, Daniel and Nouri, Arash G},
+ journal={Fuel},
+ volume={357},
+ pages={129581},
+ year={2024},
+ publisher={Elsevier}
 }
 
