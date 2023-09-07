@@ -9,7 +9,7 @@ Theses reduced models for methane-air combustion are derived using f-OTD method.
 
 ## Citing
 
-If you use these reduced mechanisms for your simulations, please cite the following works.
+If you use these reduced mechanisms for your simulations, please cite the following work.
 
 ```
 @article{liu2024skeletal,
