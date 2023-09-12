@@ -1,6 +1,6 @@
 # Reduced models of FFCM-1 mechanism
 
-Theses reduced models for methane-air combustion are derived using f-OTD method. They are deeply tested in [link to publication]
+Theses reduced models for methane-air combustion are derived using f-OTD method. They are deeply tested in [Skeletal reaction models for methane combustion (2024)](https://www.sciencedirect.com/science/article/pii/S0016236123021956?dgcid=coauthor).
 
 ----------------------
 ## Using Notice
