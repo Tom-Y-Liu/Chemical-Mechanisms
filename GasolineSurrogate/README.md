@@ -1,4 +1,4 @@
-# Reduced models of FFCM-1 mechanism
+# Reduced models of LLNL's Gasoline Surrogate mechanism
 
 Theses reduced models for GasolineSurrogate-air combustion are derived using TDB-CUR method. They are tested extensively in []().
 
